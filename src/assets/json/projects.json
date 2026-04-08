@@ -1,14 +1,86 @@
-{
-  "name": "$name$",
-  "version": "$version$",
-  "description": "$END$",
-  "main": "$main$",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+[
+  {
+    "projectImage": {
+      "src": "src/assets/Profile.jpg"
+    },
+    "projectHeader": {
+      "title": "Website Redesign",
+      "type": "UI/UX"
+    },
+    "projectDescription": {
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+    }
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/FeStemler/portifolio_v2.git"
+  {
+    "projectImage": {
+      "src": "src/assets/Profile.jpg"
+    },
+    "projectHeader": {
+      "title": "Mobile App",
+      "type": "Development"
+    },
+    "projectDescription": {
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+    }
   },
-  "private": true
-}
+  {
+    "projectImage": {
+      "src": "src/assets/Profile.jpg"
+    },
+    "projectHeader": {
+      "title": "Branding Kit",
+      "type": "Design"
+    },
+    "projectDescription": {
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+    }
+  },
+  {
+    "projectImage": {
+      "src": "src/assets/Profile.jpg"
+    },
+    "projectHeader": {
+      "title": "Mobile App",
+      "type": "Development"
+    },
+    "projectDescription": {
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+    }
+  },
+  {
+    "projectImage": {
+      "src": "src/assets/Profile.jpg"
+    },
+    "projectHeader": {
+      "title": "Mobile App",
+      "type": "Development"
+    },
+    "projectDescription": {
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+    }
+  },
+  {
+    "projectImage": {
+      "src": "src/assets/Profile.jpg"
+    },
+    "projectHeader": {
+      "title": "Mobile App",
+      "type": "Development"
+    },
+    "projectDescription": {
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+    }
+  },
+  {
+    "projectImage": {
+      "src": "src/assets/Profile.jpg"
+    },
+    "projectHeader": {
+      "title": "Mobile App",
+      "type": "Development"
+    },
+    "projectDescription": {
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+    }
+  }
+]

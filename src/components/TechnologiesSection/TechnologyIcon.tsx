@@ -6,7 +6,7 @@ interface TechnologyIconProps {
 
 export const TechnologyIcon: React.FC<TechnologyIconProps> = ({ imageUrl }) => {
     return (
-        <div className="flex overflow-hidden flex-col justify-center items-center self-stretch px-2.5 my-auto bg-neutral-900 h-[93px] w-[93px]">
+        <div className="flex overflow-hidden flex-col justify-center items-center self-stretch px-2.5 my-auto bg-neutral-900 h-[93px] max-md:h-[42px] w-[93px] max-md:w-[42px]">
             <img
                 src={imageUrl}
                 alt="Technology icon"
